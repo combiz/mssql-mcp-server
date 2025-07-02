@@ -86,3 +86,7 @@ Thumbs.db
 
 # Claude specific
 .claude/
+
+# PyPI credentials - NEVER commit these!
+.pypirc
+.pypirc.example
