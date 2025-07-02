@@ -16,7 +16,7 @@ def read_long_description():
     return ""
 
 setup(
-    name='mssql-mcp-server',
+    name='mssql-mcp-server-enhanced',
     version='1.0.0',
     author='MSSQL MCP Server Contributors',
     author_email='',

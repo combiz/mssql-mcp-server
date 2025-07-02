@@ -13,14 +13,14 @@ A Model Context Protocol (MCP) server implementation for Microsoft SQL Server. T
 
 ## Installation
 
-### From PyPI (when published)
+### From PyPI
 ```bash
-pip install mssql-mcp-server
+pip install mssql-mcp-server-enhanced
 ```
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/mssql-mcp-server.git
+git clone https://github.com/combiz/mssql-mcp-server.git
 cd mssql-mcp-server
 pip install -e .
 ```
